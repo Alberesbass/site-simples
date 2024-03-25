@@ -100,7 +100,19 @@ nav ul li a:hover {
     margin-bottom: 5%;
 }
 
-.modalDialog img {
+.modalDialog .html-img {
+    width: 50%;
+    position: relative;
+    margin-left: 25%;
+}
+
+.modalDialog .tecnologia-img {
+    width: 50%;
+    position: relative;
+    margin-left: 25%;
+}
+
+.modalDialog .acessibilidade-img {
     width: 50%;
     position: relative;
     margin-left: 25%;
